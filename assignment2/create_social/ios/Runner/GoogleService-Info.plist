@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>549817269255-euqnia04lcsvj1ump74vhd94f1ij4okg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.549817269255-euqnia04lcsvj1ump74vhd94f1ij4okg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8I1lRUay0KTz0CUgAz8iPsG-n2Euq1Hg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>549817269255</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tyroget.create-social</string>
+	<key>PROJECT_ID</key>
+	<string>social-by-tyroget</string>
+	<key>STORAGE_BUCKET</key>
+	<string>social-by-tyroget.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:549817269255:ios:44e477e34111bf5236bea2</string>
+</dict>
+</plist>
